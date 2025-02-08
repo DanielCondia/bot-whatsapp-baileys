@@ -1,0 +1,20 @@
+{
+  "name": "pruebasconceptobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bot-whatsapp/bot": "^0.1.38",
+    "@bot-whatsapp/provider-baileys": "^0.1.0-alpha.18",
+    "@whiskeysockets/baileys": "^6.7.12",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
